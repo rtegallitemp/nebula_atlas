@@ -1,0 +1,9 @@
+# Ignore dependencies and build artifacts
+**/node_modules/**
+contracts/artifacts/**
+contracts/cache/**
+contracts/types/**
+frontend/dist/**
+frontend/.vite/**
+frontend/tsconfig.tsbuildinfo
+.DS_Store
