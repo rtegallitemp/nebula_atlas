@@ -7,3 +7,5 @@ frontend/dist/**
 frontend/.vite/**
 frontend/tsconfig.tsbuildinfo
 .DS_Store
+
+# keep workspace tidy
